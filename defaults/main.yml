@@ -44,7 +44,7 @@ ubuntu1804cis_rule_1_1_13: false
 ubuntu1804cis_rule_1_1_14: false
 ubuntu1804cis_rule_1_1_15: false
 ubuntu1804cis_rule_1_1_16: false
-ubuntu1804cis_rule_1_1_17: false
+ubuntu1804cis_rule_1_1_17: true
 ubuntu1804cis_rule_1_1_18: false
 ubuntu1804cis_rule_1_1_19: false
 ubuntu1804cis_rule_1_1_20: false
